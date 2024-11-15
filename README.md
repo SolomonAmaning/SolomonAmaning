@@ -92,7 +92,7 @@ I have worked on diverse projects, from **healthcare AI solutions** to **telecom
 - **📧 Email**: solomonodum@gmail.com
 - **🐦 GitHub**: [github.com/SolomonAmaning](https://github.com/SolomonAmaning)
 - **💼 LinkedIn**: [www.linkedin.com/in/solomon-odum-datascientist](www.linkedin.com/in/solomon-odum-datascientist)
-- **🌍 Location**: Navi Mumbai, Maharashtra | Accra, Ghana
+- **🌍 Location**: Navi Mumbai, Maharashtra-India | Accra, Ghana - currently in India
 
 ---
 
