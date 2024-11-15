@@ -1,88 +1,104 @@
-<# Hi there, I'm Solomon Amaning Odum👋
+# 👋 Welcome to My GitHub Profile | Solomon Amaning Odum
 
-I'm a passionate **Data Scientist** who loves turning data into actionable insights. I specialize in **machine learning**, **data analysis**, **large language modeling**, and **predictive modeling**. Whether it's cleaning messy datasets or deploying scalable models, I thrive on solving real-world problems with data. I have over the past years worked on healthcare related AI use cases
-
-Welcome to my GitHub! Here you’ll find a collection of my projects, research, and learning journey in the world of data science. 🚀
+Hi there! I'm **Solomon Amaning Odum**, a passionate **Data Scientist**, **MLOps Specialist**, and **AI Innovator** with a deep focus on leveraging **machine learning** and **AI** to create impactful solutions, particularly in **healthcare** and **real-world problem-solving**.
 
 ---
 
-## 🚀 Currently Working On
-- 🧠 **Large Language Model** in the areas of fine tuning, preparing custom dataset[chat mark-up language] for fine tuning and using **RAG architecture** for healthcare related AI use-cases.
-- 📊 I am also creating a pipeline for benchmarking datasets with our in house LLM.
-- 🧩 Solving real-world problems using **Kaggle competitions** and datasets.
+## 🌟 About Me
+
+I specialize in developing data-driven solutions with expertise in:
+- **Natural Language Processing (NLP)**: Automating text summarization, medical transcription, and more.
+- **Computer Vision**: Implementing image classification, object detection, and healthcare diagnostics.
+- **Predictive Analytics**: Building models for risk assessment, time series forecasting, and churn prediction.
+- **MLOps**: End-to-end deployment of scalable ML pipelines in cloud environments like **AWS**, **Azure**, and **GCP**.
+
+I have worked on diverse projects, from **healthcare AI solutions** to **telecom customer retention models**, and am driven by a mission to make AI accessible and impactful.
 
 ---
 
-## 🛠️ Languages and Tools
-I work with a variety of tools to extract insights from data and build predictive models:
+## 🔬 My Expertise
 
-- **Programming Languages**: Python, SQL
-- **Data Science Libraries**: Pandas, NumPy, SciPy, Scikit-Learn, Matplotlib, Seaborn, Plotly
-- **Machine Learning**: TensorFlow, Keras, XGBoost, LightGBM,etc
-- **Data Visualization**: Tableau, Matplotlib, Seaborn
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Big Data Tools**: Hadoop, Spark
-- **Cloud**: AWS and Azure
-- **Version Control**: Git, GitHub, azure cli
+### 🧠 Machine Learning & AI
+- NLP (Text Summarization, Language Models, Question-Answering Systems)
+- Computer Vision (Object Detection, Classification)
+- Predictive Modeling and Analytics
+- Time Series Forecasting
 
+### ⚙️ Tools & Technologies
+- **Programming**: Python, SQL, PySpark
+- **Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn
+- **Visualization**: Tableau, Matplotlib, Plotly, Seaborn
+- **Databases**: MongoDB, PostgreSQL
+- **Cloud & MLOps**: AWS, Azure, Google Cloud Platform (GCP), Docker, GitHub Actions
 
----
-
-## 📌 Featured Projects
-Here are some of the data science projects that I'm most proud of:
-
-- **[USD/GBP Exchange Rate Forecast Application](https://github.com/SolomonAmaning/Forex-exchange-forecast)**  
-  This application forecasts the USD/GBP exchange rate for up to 10 years. Users can input a custom USD and GBP rate, and the forecast will start from today’s date with the user-defined rate.
-  The application provides interactive visualization features, allowing users to view historical exchange rates, explore forecasted trends, and highlight specific years for detailed rate information.
-
-
-## 🎓 Education & Certifications
-- **M.Sc. in Data Science** | [University Name]
-- **Coursera Certifications**:
-   - *Machine Learning* by Andrew Ng
-   - *Deep Learning Specialization* by Andrew Ng
-   - *Data Science Professional Certificate* by IBM
-- **Kaggle**:  
-   - *Kaggle Competitions*: Top 10% in [competition name] (if applicable)
-   - *Kaggle Notebooks*: Over 100 upvotes on my public kernels/notebooks!
+### 📊 Data Engineering
+- Big Data Processing with **Spark**
+- Data Cleaning and Feature Engineering
+- ETL Pipelines for Data Ingestion and Processing
 
 ---
 
-## 📬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Kaggle Profile](https://www.kaggle.com/your-kaggle-username)
-- [Personal Website](https://yourwebsite.com)
+## 🏆 Highlight Projects
+
+### 🔬 Healthcare AI Projects
+1. **Breast Cancer Detection**  
+   - Built a lightweight model using **MobileNetV2** for image-based cancer detection.
+   - Delivered robust accuracy and efficiency suitable for deployment on resource-limited devices.
+   - **Tech Stack**: Python, TensorFlow, Keras  
+   - [View Repository](https://github.com/SolomonAmaning/Breast-Cancer-Detection)
+
+2. **Anemia Prediction from Conjunctiva Images**  
+   - Developed a **deep learning model** leveraging YOLO and CNNs to detect anemia.
+   - Integrated into a smartphone application for real-time diagnosis.  
+   - **Tech Stack**: PyTorch, OpenCV, FastAPI  
+   - [View Repository](https://github.com/SolomonAmaning/Anaemia-Prediction)
+
+3. **Sepsis Prediction**  
+   - Designed a predictive model to forecast sepsis onset 6 hours before occurrence using Random Forest.
+   - Achieved high F1-scores validated by domain experts.
+   - **Tech Stack**: Scikit-learn, Pandas  
+   - [View Repository](https://github.com/SolomonAmaning/Sepsis-Prediction)
+
+### 📈 Business AI Projects
+4. **Telecom Churn Prediction**  
+   - Built classification models to predict recharge delays and customer churn for telecom clients.
+   - **Tech Stack**: Python, Tableau, Scikit-learn  
+   - [View Repository](https://github.com/SolomonAmaning/Telecom-Churn)
+
+5. **Forex Exchange Forecasting**  
+   - Long-term FX prediction using **LSTM** for financial analysis.
+   - **Tech Stack**: TensorFlow, Pandas, NumPy  
+   - [View Repository](https://github.com/SolomonAmaning/Forex-exchange-forecast)
 
 ---
 
-## 📖 Fun Facts
-- I’m fascinated by how data science is revolutionizing industries like healthcare, finance, and marketing.
-- When I’m not analyzing data, you can find me reading sci-fi novels or experimenting with data visualization art.
-- I love solving complex puzzles and challenges, both in data science and in real life. 🧩
+## 📚 Certifications
+- **Machine Learning with Python** — IBM
+- **Blockchain Technology and Risk Analytics** — Nanyang Technological University, Singapore
+- **Basic Life Support (BLS)** — American Heart Association
 
 ---
 
-## 🎯 Currently Learning
-- **Reinforcement Learning**: Exploring how to build models that learn by interacting with environments.
-- **MLOps**: Learning how to deploy and monitor machine learning models in production.
-- **Time Series Forecasting**: Diving deeper into advanced time series techniques to predict future data trends.
+## 🚀 Future Goals
+
+1. **Develop AI tools** for underserved healthcare systems globally.
+2. Dive deeper into **MLOps pipelines** and automation for large-scale deployments.
+3. Mentor and collaborate with fellow data and AI enthusiasts.
 
 ---
 
-## 🎓 Open Source Contributions
-I love collaborating with the open-source community! Feel free to open issues or contribute to my repositories. Let’s build amazing things together! 🤝
-!--
-**SolomonAmaning/SolomonAmaning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect with Me
 
-Here are some ideas to get you started:
+- **📧 Email**: solomonodum@gmail.com
+- **🐦 GitHub**: [github.com/SolomonAmaning](https://github.com/SolomonAmaning)
+- **💼 LinkedIn**: [www.linkedin.com/in/solomon-odum-datascientist](www.linkedin.com/in/solomon-odum-datascientist)
+- **🌍 Location**: Navi Mumbai, Maharashtra | Accra, Ghana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Fun Fact
+
+I’m always intrigued by the intersection of **AI** and **healthcare** and constantly exploring how to make intelligent systems affordable, scalable, and impactful!
+
+---
+✨ *Let’s build something amazing together!* ✨
